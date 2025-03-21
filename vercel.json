@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/flores-amarillas-html-css-js/index.html" }]
+}
